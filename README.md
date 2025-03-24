@@ -1,7 +1,7 @@
 # WebGL Game - Sai Game Studio
 
 ## Introduction
-Welcome to **Sai Pikachu**, a game developed by **Sai Game Studio**. This game runs on WebGL, delivering smooth 2D graphics directly in your browser.
+Welcome to **Sai Pikachu**, a game developed by **Sai Game Studio**. This game runs on WebGL, delivering smooth 2D graphics directly in your browser. Demo game [[video]](https://www.youtube.com/watch?v=-RpAziNE-GQ)
 
 ## Key Features
 - **Multiplayer Battles**: Up to 4 players can join a room and compete in real-time.
